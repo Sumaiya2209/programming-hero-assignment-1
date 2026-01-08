@@ -40,7 +40,7 @@ nav .menu a{
 }
 
 .hero{
-  background-image: url("/assets/hero-bg.png");
+  background-image: url("../assets/hero-bg.png");
   height: 674px;
   padding: 70px 120px 134px 120px;
   gap: 40;
