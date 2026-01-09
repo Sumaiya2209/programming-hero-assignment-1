@@ -307,6 +307,6 @@ footer{
   margin-bottom: 12px;
 }
 
-#btn1:hover, #btn2:hover , button:hover, li:hover, span:hovergit {
+#btn1:hover, #btn2:hover , button:hover, li:hover, span:hover{
   background-color: rgb(206, 114, 152);
 }
